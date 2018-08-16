@@ -1,4 +1,7 @@
 package com.khantzen.findyourway;
+// @TODO: Kevin, consider registering domain khantzen.com if you plan to use com.khanten package :).
+// @TODO: Consider indenting with spaces :TROLL:
+// @TODO: BUT. WHERE. ARE. THE. TESTS.
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
